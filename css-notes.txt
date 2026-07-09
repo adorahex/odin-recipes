@@ -1,0 +1,36 @@
+* - universal selector 
+*::before, *::after
+.class, #id
+.read, .unread {
+
+}
+
+.class.another-class or 
+.class#id
+
+.class .class
+.class #id
+
+color:
+background-color:
+
+rgba (changing opacity)
+
+font-family: "on most devices", standard
+font-size:
+font-weight:
+text-align:
+
+image height and width
+height: 100
+width: auto
+
+inherited values
+
+margin, padding, borders
+
+display: inline, inline-block, block
+
+box-sizing: ;
+
+<div>, <span>
