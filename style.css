@@ -1,0 +1,79 @@
+/* Home page */
+body {
+    font-family: sans-serif, Verdana;
+}
+
+.home-box {
+    width: 300px;
+    margin: 16px auto;
+    border: 1px solid goldenrod;
+    padding: 20px 15px 0;
+    background-color:floralwhite;
+}
+
+#heading-logo {
+    display: inline;
+    background-color:beige;
+    padding: 22px 18px;
+    border-radius: 15px;
+    border: 1px solid goldenrod;
+}
+
+#odin-logo {
+    width: 50px;
+    vertical-align: middle;
+}
+
+.heading {
+    display:inline;
+    vertical-align: middle;
+    color: goldenrod;
+}
+
+/* Remaining */
+
+.list-box {
+    padding: 0;
+    margin: 18px;
+}
+
+
+.list {
+    padding: 6px;
+    border: 1px solid goldenrod;
+    margin-top: 10px;
+    background-color:beige;
+    border-radius: 8px;
+}
+
+
+
+
+/* .home-box {
+    width: 1000px;
+    margin: 20px auto;
+    border: 1px solid red;
+    text-align: center;
+    font-size: large;
+}
+
+.heading {
+    box-sizing: border-box;
+    border: 2px solid brown;
+    background-color: yellow;
+    font-weight:400;
+}
+
+.list-box {
+    display: flex;
+    background-color: azure;
+}
+
+.list {
+    display: inline-block;
+    background-color: antiquewhite;
+    border-color: burlywood;
+    border: 1px;
+    padding: 20px;
+} */
+
